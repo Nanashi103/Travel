@@ -262,6 +262,7 @@ body {
 
 .d-block {
     position: relative;
+    border-radius: 25px;
 }
 
 .carousel__text {
